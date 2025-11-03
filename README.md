@@ -1,5 +1,4 @@
 # Test
-This is the first game I made on Unity :)
 # Le Minh Tam Learn
 
 *Wrote 3/11/2025*
